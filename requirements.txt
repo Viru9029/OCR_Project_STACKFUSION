@@ -1,16 +1,10 @@
 h5py
 imutils==0.5.4
 keras==2.10.0
-Keras-Preprocessing==1.1.2
 numpy
 opencv-python==4.6.0.66
-openpyxl==3.0.10
-scikit-learn-intelex==2021.20221004.171935
+scikit-learn
 scipy==1.9.1
-statsmodels==0.13.2
 tensorflow==2.10.0
-tensorflow-estimator==2.10.0
-tensorflow-io-gcs-filesystem==0.27.0
-termcolor==2.0.1
 torch==1.12.1
 flask
