@@ -33,5 +33,3 @@ Redme : https://github.com/Viru9029/OCR_Project_STACKFUSION/blob/main/README.md
 ![4](https://user-images.githubusercontent.com/102298880/200892788-581252d9-094c-403c-bcc0-07333d21eb7e.jpg)
 
 ![car_image](https://user-images.githubusercontent.com/102298880/200892834-db2f32b1-a9de-4c5e-babb-72162db92eb8.png)
-
-![5th](https://user-images.githubusercontent.com/102298880/200892997-4a8e1bd8-2def-4d57-b344-3a7bb39b6a4b.jpg)
