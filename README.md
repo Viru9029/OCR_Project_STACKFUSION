@@ -15,4 +15,4 @@ Souce Code to Make Neural Network Model : https://github.com/Viru9029/OCR_Projec
 
 Flask App : https://github.com/Viru9029/OCR_Project_STACKFUSION/blob/main/app.py
 
-Deployment Platform : Heroku
+Deployment Platform : Heroku  https://dashboard.heroku.com/apps/ocrprojectstackfusion
