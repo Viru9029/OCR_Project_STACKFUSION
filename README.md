@@ -22,3 +22,5 @@ Deployment Platform : Heroku  https://dashboard.heroku.com/apps/ocrprojectstackf
 
 
 Redme : https://github.com/Viru9029/OCR_Project_STACKFUSION/blob/main/README.md
+
+![1st](https://user-images.githubusercontent.com/102298880/200892614-da350281-3361-43d0-a7bf-83696f2b63ea.jpg)
